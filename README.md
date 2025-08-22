@@ -1,5 +1,13 @@
 # Analysis of Early Childhood Development Trajectories in Social Perinatal Health Contexts
 
+## Tools used for this project
+
+- AirTable
+- Excel
+- Power BI
+- Jupyter Notebook
+- Python
+
 ## Overview
 This project aims to evaluate developmental progress among children receiving social and health services within a vulnerable population. By analyzing early childhood developmental scores, the study seeks to compare outcomes between children with early intervention 9during pregnancy) versus those with later engagement. The ultimate goal is to identify key social determinants influencing developmental delays and to inform targeted interventions that improve early childhood health outcomes.
 
@@ -12,7 +20,7 @@ Specific objectives include:
 - Identifying the social determinants or family caracteristics (e.g. immigration status) most strongly associated with delays.
 - Providing evidence-based insights to optimize early childhood intervention strategies.
 
-##Data Sources
+## Data Sources
 
 Data were collected from multiple sources within the organization’s infrastructure. Client demographic and social determinant information were obtained from site-specific databases, which included variable details on social and environmental factors. Developmental assessment scores (ASQ) were compiled via an Airtable form completed by organization staff, focusing on children aged 4-5 years across various locations. Cross-referencing was conducted using anonymized Client ID and Child ID fields, ensuring confidentiality with all nominal identifiers omitted.
 
